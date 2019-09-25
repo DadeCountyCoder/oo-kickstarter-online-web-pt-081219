@@ -1,10 +1,10 @@
 class Project
   attr_accessor
   
-  def initialize()
+  # def initialize()
     
     
-  end  
+  # end  
   
   
   
