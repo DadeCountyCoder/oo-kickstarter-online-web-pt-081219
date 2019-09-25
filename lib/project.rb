@@ -1,10 +1,11 @@
 class Project
   attr_accessor
   
-  def initialize()
-    
-    
-  end  
+  def initialize(title)
+    @title = title
+    @backers = []
+  end
+
   
   
   
